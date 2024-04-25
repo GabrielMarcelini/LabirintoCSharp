@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\bin\Debug\net6.0\LabirintodoRato.exe
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\bin\Debug\net6.0\LabirintodoRato.deps.json
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\bin\Debug\net6.0\LabirintodoRato.runtimeconfig.json
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\bin\Debug\net6.0\LabirintodoRato.dll
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\bin\Debug\net6.0\LabirintodoRato.pdb
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.dll
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\refint\LabirintodoRato.dll
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.pdb
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\LabirintodoRato.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\LabirintodoRato\LabirintodoRato\obj\Debug\net6.0\ref\LabirintodoRato.dll
